@@ -10,8 +10,7 @@ import React from 'react';
 import './App.css';
 import Dinner from './Dinner.js';
 function App(){
-    return
-    (
+    return  (
         <div ClassName="App">
         <Dinner dishName="chikenkraahi" sweetdish="kheer"/>
         </div>
