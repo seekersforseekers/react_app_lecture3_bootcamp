@@ -8,4 +8,4 @@ function Dinner(props)
         </div>
     );
 }
-export default App;
+export default Dinner;

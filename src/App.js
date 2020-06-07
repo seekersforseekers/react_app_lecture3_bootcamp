@@ -16,4 +16,4 @@ function App(){
         </div>
     );
 }
-export default Dinner;
+export default App;
