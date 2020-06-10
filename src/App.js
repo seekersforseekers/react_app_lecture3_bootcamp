@@ -13,6 +13,7 @@ function App(){
     return  (
         <div ClassName="App">
         <Dinner dishName="chikenkraahi" sweetdish="kheer"/>
+        <Holder time="9:00" date="10th june" subject="programming"/>
         </div>
     );
 }
