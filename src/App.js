@@ -9,6 +9,7 @@ export default App; //it is a component defined in node.js
 import React from 'react';
 import './App.css';
 import Dinner from './dinner.js';
+import Holder from './practise.js'
 function App(){
     return  (
         <div ClassName="App">
